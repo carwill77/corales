@@ -50,7 +50,7 @@ header nav ul li{
 header nav ul li a{
     text-decoration: none;
     display: inline-block;
-    padding: 15px 20px;
+    padding: 20px 20px;
     color: white;
 }
 
@@ -93,7 +93,7 @@ header nav ul li a:hover{
     vertical-align: top;
 }
 
-.main .img .primera{
+.main .img .imagenf{
     margin-left: 5%;
 }
 
@@ -147,6 +147,12 @@ top5 .top0 h4{
     text-align: center;
 }
 
+top5 .top0 h3{
+    color: cyan;
+    text-align: center;
+}
+
+
 top5 .top0 .titulo{
     color:#95D5B2;    
     border-bottom: 1px solid #95D5B2;
@@ -169,7 +175,7 @@ top5 .top0 ul li a{
 }
 
 top5 .top0 ul li a:hover{
-    color: #8f8f8f;
+    color: yellow;
 }
 
 top5 .top0 p{
@@ -213,7 +219,7 @@ form .form-block textarea{
 .boton{
     padding: 10px;
     font-size: 15px;
-    background: #081C15;
+    background: #1B4332;
     border: none;
     color: #fff;
     margin: 0 auto;
@@ -226,7 +232,7 @@ form .form-block textarea{
 
 .boton:hover{
     background: #1B4332;
-    color: #D8F3DC;
+    color: yellow;
 }
 
 footer{
