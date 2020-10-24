@@ -29,7 +29,7 @@ body{
 }
 
 header{
-    background:green; /*#081C15;*/
+    background:green; 
     margin-left: 4%;    
 }
 
@@ -121,7 +121,7 @@ header nav ul li a:hover{
     margin-bottom: 5px;
 }
 
-aside{
+top5{
     width: 300px;
     background: #161f26;
     padding: 30px;
@@ -130,36 +130,36 @@ aside{
     margin-top: 10px;
 }
 
-aside .top0{
+top5 .top0{
     margin-bottom: 20px;
 }
 
-aside .top0 .titulo{
+top5 .top0 .titulo{
     color:#95D5B2;    
     border-bottom: 1px solid #95D5B2;
     padding: 10px 0;
 }
 
-aside .top0 ul{
+top5 .top0 ul{
     list-style: none;
 }
 
-aside .top0 ul li{
+top5 .top0 ul li{
     border-bottom: 1px solid #95D5B2;
     padding: 10px 0;
 }
 
-aside .top0 ul li a{
+top5 .top0 ul li a{
     color: #fff;
     text-decoration: none;
     padding: 10px 0;
 }
 
-aside .top0 ul li a:hover{
+top5 .top0 ul li a:hover{
     color: #8f8f8f;
 }
 
-aside .top0 p{
+top5 .top0 p{
     line-break: 27px;
     padding: 10px 0;
 }
