@@ -51,11 +51,11 @@ header nav ul li a{
     text-decoration: none;
     display: inline-block;
     padding: 15px 20px;
-    color: #D8F3DC;
+    color: white;/*#D8F3DC;*/
 }
 
 header nav ul li a:hover{
-    background: #40916C;
+    background: brown;
     color: #fff;
     margin: 0;
 }
@@ -104,6 +104,9 @@ header nav ul li a:hover{
 .main .post article h2{
     margin-bottom: 20px;
     text-align: center;
+    font-size: 15px;
+    background: #D8F3DC; 
+    border: none;
     color: brown;
 }
 
@@ -133,6 +136,12 @@ top5{
 top5 .top0{
     margin-bottom: 20px;
 }
+
+top5 .top0 ul{
+    text-align: center;    
+    color: cyan;
+}
+
 
 top5 .top0 .titulo{
     color:#95D5B2;    
@@ -217,8 +226,8 @@ form .form-block textarea{
 }
 
 footer{
-    width: 1000px;
-    background: #000;
+    width: 1000px;    
+    background:green; 
     color: white;
     text-align: center;
     overflow: hidden;
