@@ -97,7 +97,7 @@ header nav ul li a:hover{
     margin-left: 5%;
 }
 
-.main .post{
+.main .post{    
     padding: 40px;
 }
 
@@ -151,7 +151,6 @@ top5 .top0 h3{
     color: cyan;
     text-align: center;
 }
-
 
 top5 .top0 .titulo{
     color:#95D5B2;    
